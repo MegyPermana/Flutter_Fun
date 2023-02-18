@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: Text("My Apps"),
+          title: Text("My Apps is fun"),
         ),
         body: Center(
           child: Text("Hallo"),
