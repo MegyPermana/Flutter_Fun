@@ -14,7 +14,11 @@ class MyApp extends StatelessWidget {
           title: Text("My Apps"),
         ),
         body: Center(
+<<<<<<< Updated upstream
           child: Text("My name flutter"),
+=======
+          child: Text("Apa Kabar"),
+>>>>>>> Stashed changes
         ),
       ), 
     );
